@@ -3,7 +3,7 @@
 To add/edit links, just go to "streams" file (must add a file named "streams") and type: "start YOURLINK" (each has to be in a new line)
 Pressing 5 will open a random stream from your list
 Pressing 6 will quit the program
-The "streams" file must be in the same directory/path as the executable file (xqcProject.exe)
+The "streams" file must be in the same directory/path as the executable file (xqcProject.exe) (personally, i would put both in a folder)
 
 Side Note: I opened the google drive (exe files aren't usually stored in google drives) and 
 when it downloads you have to turn off firewalls because it recognizes an exe files as a virus (it's what google does). 
